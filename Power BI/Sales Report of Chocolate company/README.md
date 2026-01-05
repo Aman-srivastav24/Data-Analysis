@@ -118,3 +118,5 @@ Aman Srivastav
 🔗 LinkedIn: https://www.linkedin.com/in/aman-srivastavv/
 
 💻 GitHub: https://github.com/Aman-srivastav24
+
+SnapShot Or Preview : (https://github.com/Aman-srivastav24/Data-Analysis/blob/main/Power%20BI/Sales%20Report%20of%20Chocolate%20company/salechoc.png)
